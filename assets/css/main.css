@@ -2970,8 +2970,8 @@ input, select, textarea {
 	}
 
 	body.is-touch #header {
-		background-attachment: scroll;
-		background-size: auto, cover;
+		background-attachment: fixed;
+		background-size: cover;
 	}
 
 	body.is-touch .poptrox-popup .nav-next,
@@ -3055,9 +3055,9 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				background-attachment: scroll;
-				background-position: top left, center center;
-				background-size: auto,		cover;
+				background-attachment: fixed;
+				background-position: top left;
+				background-size: contain;
 				left: auto;
 				padding: 6em 4em;
 				position: relative;
@@ -3080,10 +3080,10 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
-				background-position: top left,						bottom center;
-				background-repeat: repeat,							no-repeat;
-				background-size: auto,							cover;
+				background-image: url("../../Media/IMG_3054_30alpha.png");
+				background-position: top left;;
+				background-repeat:no-repeat;
+				background-size: contain;
 				bottom: auto;
 				left: auto;
 				padding: 4em 4em 6em 4em;
