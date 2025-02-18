@@ -1,1 +1,0 @@
-# mnemoniko.github.io
