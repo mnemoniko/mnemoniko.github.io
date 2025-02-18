@@ -3,7 +3,7 @@ title: Stefanie Mack
 subtitle: 
 email: contact@stefaniemack.com
 description: Professional profile for Stefanie Mack, PhD
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/"
 url: # the base hostname & protocol for your site
 author: Stefanie Mack
 street_address: 
