@@ -3,8 +3,9 @@ title: Stefanie Mack
 subtitle: 
 email: contact@stefaniemack.com
 description: Professional profile for Stefanie Mack, PhD
-baseurl: "/"
-url: mnemoniko.github.io
+domain: mnemoniko.github.io
+baseurl: 
+url: https://mnemoniko.github.io
 author: Stefanie Mack
 street_address: 
 city: Tokyo
