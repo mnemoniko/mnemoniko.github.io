@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/mnemoniko/mnemoniko.github.io/quickstart",
+	"sourceRoot": "/home/mnemoniko/mnemoniko.github.io/docs",
 	"sources": [
 		"ananke/css/main.css"
 	],

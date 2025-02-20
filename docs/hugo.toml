@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mnemoniko.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Stefanie Mack (under development)'
 theme = 'ananke'
